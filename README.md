@@ -6,4 +6,4 @@ Here I present some a set of solutions to the end of chapter problems. The solut
 #Install
 If you're using anaconda, you can download:
 
-<a href="https://github.com/AidanMar/Statistical-Rethinking-Solutions/blob/main" download="Bayes.yml">Download</a>
+<a href="https://github.com/AidanMar/Statistical-Rethinking-Solutions/blob/main/Bayes.yml" download="Bayes.yml">Bayes.yml</a>
