@@ -24,3 +24,7 @@ If you're using windows, in the immortal words of Obi-Wan-Kenobi "You want to go
 If the above environment doesn't work, then enter the following into your command line
 
 ``` pip install pymc3```
+
+# NB
+
+The notebooks are all still works in progress, and "copy editing" has yet to be done. So don't be too harsh/judgy about all of the typos and grammatical errors
